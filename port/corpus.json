@@ -634,6 +634,5 @@
       "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/tests/test_saver_regressions.py"
     }
   ],
-  "downstream_retrieval_status": "NOT_TRACKED",
   "downstream_coverage_evidence": "Per-invocation receipts; the static inventory does not track agent reads."
 }
