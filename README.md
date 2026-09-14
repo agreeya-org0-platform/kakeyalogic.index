@@ -1,7 +1,7 @@
 # ∃ — Excellence Engine · inference port
 
 This fork gives KakeyaLogic and L²_C an explicit lookup/application entry point.
-The ∃ symbol identifies this fork; it is not a mathematical existence claim.
+The ∃ symbol identifies this fork.
 
 [Agent port](port/PORT.md) · [Source map](port/index.json) · [Pinned corpus inventory](port/corpus.json) · [Invocation](port/INVOKE.txt)
 
