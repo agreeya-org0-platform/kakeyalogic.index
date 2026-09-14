@@ -1,0 +1,35 @@
+{
+  "id": "KL-L2C-PORT-001",
+  "symbol": "∃",
+  "name": "Excellence Engine inference port",
+  "version": "0.1",
+  "repository": "https://github.com/agreeya-org0-platform/kakeyalogic.index",
+  "base_revision": "ede2e4d2a7d05b9c24cf29275156f9164789248b",
+  "activation": "explicit_current_user_lookup_or_application_request",
+  "default_effort": "task_proportional",
+  "corpus": "corpus.json",
+  "routes": {
+    "core": "docs/core/README.md",
+    "glossary": "docs/core/glossary.md",
+    "routing": "docs/core/five-grain-routing.md",
+    "l2c_authority": "docs/l2c-authority-detection.md",
+    "custody": "docs/interfaces/excellence-engine-v4.md",
+    "wider_program": "docs/README.md"
+  },
+  "external_sources": [
+    {
+      "url": "https://github.com/Manny536/excellence-engine-v4",
+      "role": "separate_engine_owner",
+      "coverage": "Linked separately; files are outside this inventory."
+    },
+    {
+      "url": "https://github.com/Manny536/peaice-index",
+      "role": "ecosystem_discovery",
+      "coverage": "Linked separately; files are outside this inventory."
+    }
+  ],
+  "publication_evidence": "GitHub commit and pull request record",
+  "entry_url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/main/port/PORT.md",
+  "route_path_base": "repository_root",
+  "route_revision": "ede2e4d2a7d05b9c24cf29275156f9164789248b"
+}

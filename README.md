@@ -1,3 +1,15 @@
+# ∃ — Excellence Engine · inference port
+
+This fork gives KakeyaLogic and L²_C an explicit lookup/application entry point.
+The ∃ symbol identifies this fork; it is not a mathematical existence claim.
+
+[Agent port](port/PORT.md) · [Source map](port/index.json) · [Pinned corpus inventory](port/corpus.json) · [Invocation](port/INVOKE.txt)
+
+The inherited research follows below. The separate V4 lab remains the engine owner;
+this port is the first concrete interface, not a completed migration of that lab.
+
+---
+
 ![KakeyaLogic geometric reality space](assets/kakeyalogic-geometric-reality-space.png)
 
 # KakeyaLogic — Typed Directional Completeness

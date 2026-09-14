@@ -1,0 +1,638 @@
+{
+  "scope": "all tracked files in fork at base revision; excludes the port added after this base revision and external repositories",
+  "revision": "ede2e4d2a7d05b9c24cf29275156f9164789248b",
+  "count": 126,
+  "files": [
+    {
+      "path": ".github/workflows/static.yml",
+      "sha256": "f2d965580744ee9ee893f4f5de6017da9d55a5850b86fc4c47dc138db7b8bcb4",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/.github/workflows/static.yml"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "fbd1c20e04dfc263cdf833037236513c72423ffa49d7184ce612fdad75014561",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/.github/workflows/verify.yml"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "947bf06c4daec4d6e1404c28bfe00903b4f8adde70fa6325904e720cf36ca9e2",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/.gitignore"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "9039ec48da9318637cf4a35ebafe14ed9170e0d4794f5e12a8ffd960e1b75c21",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/CHANGELOG.md"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "faa5c1b188991e2db26c5650abcab5a92c4a40ecf6511c6a8b17485e49245ed0",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/LICENSE"
+    },
+    {
+      "path": "README.md",
+      "sha256": "44f32dc6f376a41c94766e751c90f327ff854af4c1ef371de6c76172e4e091c7",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/README.md"
+    },
+    {
+      "path": "arxiv/README.md",
+      "sha256": "651b81c263c936f14e5ba39dc0c51dc70622c0b9cfd976979843f1bb8f9075f2",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/README.md"
+    },
+    {
+      "path": "arxiv/SUBMISSION-CHECKLIST.md",
+      "sha256": "688d6b13115c0021b497ea94bae2904a46b5e876b4bf252e8b835e9f2cb49e95",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/SUBMISSION-CHECKLIST.md"
+    },
+    {
+      "path": "arxiv/bibliography/grounding-register.md",
+      "sha256": "cbd727ce21e2862fa4242c396625fd3520bd73bec2af964f7e54136e55fb65e1",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/bibliography/grounding-register.md"
+    },
+    {
+      "path": "arxiv/bibliography/peaice-arxiv.bib",
+      "sha256": "cd4466737ba1f0d8391284c4d890eea5589805cc52da41e77b2b9dc946f51f88",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/bibliography/peaice-arxiv.bib"
+    },
+    {
+      "path": "arxiv/exports/ARX-001_Grain-Zero_Residual-Kakeya.docx",
+      "sha256": "c3850329eb44c5e47b6fbe4b4b58df66c7a317ea8aa9d2bd8a5a0e348328a29d",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/ARX-001_Grain-Zero_Residual-Kakeya.docx"
+    },
+    {
+      "path": "arxiv/exports/ARX-001_Grain-Zero_Residual-Kakeya.pdf",
+      "sha256": "fd8dd59038aaa49728758bcae0f259935f7054493ca0fe3c913388edd911e38f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/ARX-001_Grain-Zero_Residual-Kakeya.pdf"
+    },
+    {
+      "path": "arxiv/exports/ARX-002_KNS-LB_Typed-Incidence.docx",
+      "sha256": "bc1df16a6526fa0f3c7da8ab960d75980112c162f5ce300573916e324471a474",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/ARX-002_KNS-LB_Typed-Incidence.docx"
+    },
+    {
+      "path": "arxiv/exports/ARX-002_KNS-LB_Typed-Incidence.pdf",
+      "sha256": "f5ef4de4add01e466087123c7bfb69eb75c10651b8330977ab28bedcefd65cdd",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/ARX-002_KNS-LB_Typed-Incidence.pdf"
+    },
+    {
+      "path": "arxiv/exports/ARX-005_Coleman-Conjecture.docx",
+      "sha256": "ac04cf0aa8cf39aa4b39b523e1f7a678830855f5e40f0809171e58814028158b",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/ARX-005_Coleman-Conjecture.docx"
+    },
+    {
+      "path": "arxiv/exports/ARX-005_Coleman-Conjecture.pdf",
+      "sha256": "ce0d72603cfa77bdbe3b3054660c6bf622a8e4085f822aebb5cb6c161f632df8",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/ARX-005_Coleman-Conjecture.pdf"
+    },
+    {
+      "path": "arxiv/exports/PEAICE-ARXIV-LANE-001_Series-Map.docx",
+      "sha256": "bc27384a79a8ccaea70565d97d67cb1bfa8cdb3534c7cd09950f781f8c7572e1",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/PEAICE-ARXIV-LANE-001_Series-Map.docx"
+    },
+    {
+      "path": "arxiv/exports/PEAICE-ARXIV-LANE-001_Series-Map.pdf",
+      "sha256": "375f8c316286221667996e748fd721779f60e711a8dacaa9f86c2e07c0054c19",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/PEAICE-ARXIV-LANE-001_Series-Map.pdf"
+    },
+    {
+      "path": "arxiv/exports/README.md",
+      "sha256": "dbe3e0e395164cc437249534d9ff38e8c63e83837dba777ef20f2c78a2c329b2",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/exports/README.md"
+    },
+    {
+      "path": "arxiv/manuscripts/coleman-conjecture/STATUS.md",
+      "sha256": "df766d86e550e6e6fea22345d05e688ee8a4137181090e1b93e853bc771725f2",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/manuscripts/coleman-conjecture/STATUS.md"
+    },
+    {
+      "path": "arxiv/manuscripts/coleman-conjecture/main.tex",
+      "sha256": "f14a94c0e8f5b775020957553685fe33f2745141e0775bfb8210ed69a7a2af57",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/manuscripts/coleman-conjecture/main.tex"
+    },
+    {
+      "path": "arxiv/manuscripts/ddatl-002-grain-zero/STATUS.md",
+      "sha256": "265ca48baba27ed65c1347cb0c2e96b69a406cd8794635ea12f31b4b344fd0af",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/manuscripts/ddatl-002-grain-zero/STATUS.md"
+    },
+    {
+      "path": "arxiv/manuscripts/ddatl-002-grain-zero/main.tex",
+      "sha256": "f1bcc4a9dc04fddea574ff74b22f7a028f30b481646add6a21bb5db234e6d747",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/manuscripts/ddatl-002-grain-zero/main.tex"
+    },
+    {
+      "path": "arxiv/manuscripts/kns-lb/STATUS.md",
+      "sha256": "25c853b28c1ecd6b3fcf9d743041cb1621e4787419c7e8f7450cf5a3164bb43b",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/manuscripts/kns-lb/STATUS.md"
+    },
+    {
+      "path": "arxiv/manuscripts/kns-lb/main.tex",
+      "sha256": "522cd67e0ba2c8a4c6aba059cc45744303105d8182495d1ced0f70cb1d9257f5",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/manuscripts/kns-lb/main.tex"
+    },
+    {
+      "path": "arxiv/series/00-series-map.md",
+      "sha256": "ec6f5c17fa7fd9b8b313f2bf1253951902196f3db0c71ca7a295fabaf9a3e537",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/series/00-series-map.md"
+    },
+    {
+      "path": "arxiv/templates/claim-discipline.tex",
+      "sha256": "52673650d85230cf2c423a07b4321b0d91febf1552dbb453a6b22e5c1be4203f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/templates/claim-discipline.tex"
+    },
+    {
+      "path": "arxiv/templates/peaice-amsart.tex",
+      "sha256": "4ee8ba3002830d43b844b8b5b73ebd190ca05d29d536546d09ca985887a09da4",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/templates/peaice-amsart.tex"
+    },
+    {
+      "path": "arxiv/tools/README.md",
+      "sha256": "cd3f223c94b11acc1ce952d80de3132ba30d16e370a588be06ce0836a96a4265",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/tools/README.md"
+    },
+    {
+      "path": "arxiv/tools/build.sh",
+      "sha256": "6a3c1820964c770ebfa2492a50119ee6e701bcedde011e03383ec38f8a9db6e8",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/arxiv/tools/build.sh"
+    },
+    {
+      "path": "assets/kakeyalogic-geometric-reality-space.png",
+      "sha256": "806b19324ade683a3537705ebae8fc36cdfb80e34ca1d1305e5fbf8eaa077d94",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/assets/kakeyalogic-geometric-reality-space.png"
+    },
+    {
+      "path": "docs/README.md",
+      "sha256": "0269f6c54e85dad195ed58e652e11d29bb7b174a596c5a39a8d89179a7e00f68",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/README.md"
+    },
+    {
+      "path": "docs/archive/index-2026-06-25-pre-ddatl-v6-4-3.md",
+      "sha256": "d180db1149d8367a6aa2c35d73a596e35dbb3003c6724866b301e270ef3fc20f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/archive/index-2026-06-25-pre-ddatl-v6-4-3.md"
+    },
+    {
+      "path": "docs/benevolence-drift.md",
+      "sha256": "b26a147a30a1f299c187e06848a50db1c39991705e0983feff98b99049e9ddb8",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/benevolence-drift.md"
+    },
+    {
+      "path": "docs/berry-keating-commutator-closure.md",
+      "sha256": "20c20c0948aa2117c9c8f79c06c58ad74d188b486e65dca0f6f28acae2b0c741",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/berry-keating-commutator-closure.md"
+    },
+    {
+      "path": "docs/berry-keating-probe.md",
+      "sha256": "25b357c172e596e6b2aa3d279758f493d496fea73ed2e5b53ee8026632b77648",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/berry-keating-probe.md"
+    },
+    {
+      "path": "docs/beta-as-energy.md",
+      "sha256": "4f888476ee50374aa47c9e5172899da76fc61f90f7303a2be346a08790fa835e",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/beta-as-energy.md"
+    },
+    {
+      "path": "docs/beta-dynamic.md",
+      "sha256": "0f4a639f508c39eee27d33ee83112c3fe0b8c2da6e2672399820f78f30d66183",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/beta-dynamic.md"
+    },
+    {
+      "path": "docs/canon-flag-h.md",
+      "sha256": "db34ef6bd16395b594a2f3e3e55ee6ffcaa32e1f5f62d2f183e2cfbb941dd238",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/canon-flag-h.md"
+    },
+    {
+      "path": "docs/cauchy-krein-perturbation-ledger.md",
+      "sha256": "a653f225140d49a02e021639cf5b5ed7cff3652c526572bb80056ed83f3443b7",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/cauchy-krein-perturbation-ledger.md"
+    },
+    {
+      "path": "docs/claude-v6-coherence-update.md",
+      "sha256": "dac6856485b411fb02b5697f9bdaebccc5d571aeb3d6760e9f1b95bb34c73bda",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/claude-v6-coherence-update.md"
+    },
+    {
+      "path": "docs/coleman-conjecture-antecedent.md",
+      "sha256": "5cc9b89089f0490848a5bcc1756ffbdaa39b80e90e495308061161258df8a76b",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/coleman-conjecture-antecedent.md"
+    },
+    {
+      "path": "docs/core/README.md",
+      "sha256": "e2ea17bff68145f2521901b9a43b4bfa314c3c289ed648ae8271c735120d73d9",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/core/README.md"
+    },
+    {
+      "path": "docs/core/compression-overlap-refinement.md",
+      "sha256": "5d85e7f6981b366d29f6332336c3964854974f46382b081d025ef8969b87b80b",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/core/compression-overlap-refinement.md"
+    },
+    {
+      "path": "docs/core/directional-completeness.md",
+      "sha256": "e51b99ce92581e672fca4a4043f7e012b466cbc75bcdcf553e641bcc4a499a90",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/core/directional-completeness.md"
+    },
+    {
+      "path": "docs/core/five-grain-routing.md",
+      "sha256": "c46b4609df7341c24ffa20b2dd77ade106df05c4945e2b28a82a8674a11fe2ea",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/core/five-grain-routing.md"
+    },
+    {
+      "path": "docs/core/glossary.md",
+      "sha256": "9fb214899a96dd4d829d9d1f549e78af8c7ecf4aaac3e9521d76ca63d24c7d65",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/core/glossary.md"
+    },
+    {
+      "path": "docs/core/typed-directional-object.md",
+      "sha256": "b441c790f876f81069d643e688bf700031a21193717479550bb92c23c93c9ac3",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/core/typed-directional-object.md"
+    },
+    {
+      "path": "docs/data/ipiano-probe-data.json",
+      "sha256": "42a3e6ea334bd8e0ed4877d9f143722a8d056275a49afd35dba65e23d9984b8a",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/data/ipiano-probe-data.json"
+    },
+    {
+      "path": "docs/ddatl-002-grain-zero.md",
+      "sha256": "ed5bb002c3ba8b4d77bed151644cb8ae33e8be04f936066270fc745d11dddd9e",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/ddatl-002-grain-zero.md"
+    },
+    {
+      "path": "docs/ddatl-bridge-lemma.md",
+      "sha256": "7b99599badb5270864dec947536eab985494e37944194a9c05e93ada1562c44c",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/ddatl-bridge-lemma.md"
+    },
+    {
+      "path": "docs/ddatl-v6-4-3-grounding-citations.md",
+      "sha256": "684a87abd4502a6b7297a07ae6b4a369020c5ada1fe79d591841b455e104d397",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/ddatl-v6-4-3-grounding-citations.md"
+    },
+    {
+      "path": "docs/ddtl-np-p-compression-probe.md",
+      "sha256": "b89d0aa9ce8fe6af33f72088798aa3495646db5e1a3003477f3e57c381cf99cd",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/ddtl-np-p-compression-probe.md"
+    },
+    {
+      "path": "docs/dpsa-inertial-grounding.md",
+      "sha256": "26fca3c34ae194e806969f62abcdfb558fb03296375855fd48d0f459e06002f2",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/dpsa-inertial-grounding.md"
+    },
+    {
+      "path": "docs/e-constant.md",
+      "sha256": "515332cf777a166ce300533a5ab6108a125a71dfc145b0823d4d56c5dd5a69bd",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/e-constant.md"
+    },
+    {
+      "path": "docs/evaluation/longitudinal-retention.md",
+      "sha256": "c0d140adaff40745bfe3b13a2dda321f117dd7b01a5ea8b378dce96866b14e6f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/evaluation/longitudinal-retention.md"
+    },
+    {
+      "path": "docs/evaluation/saver-reference-calibration.md",
+      "sha256": "ddb4bb515de14872164a8386d49c1f68cae4113d64be35605060d27513a81a32",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/evaluation/saver-reference-calibration.md"
+    },
+    {
+      "path": "docs/excellence-engine-v3.md",
+      "sha256": "4644878c91584107485100c6fb11a95f70e01fef1c71ea505c3f39053a3febe4",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/excellence-engine-v3.md"
+    },
+    {
+      "path": "docs/excellence-engine-v4-lab.md",
+      "sha256": "90ca50bc162cb19278440720f8d07946197cee99c8c287b8ca875a5ae8995153",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/excellence-engine-v4-lab.md"
+    },
+    {
+      "path": "docs/excellence-engine-v4.md",
+      "sha256": "4858376a7a4415f543878577784570ce061e75938058fda5a2caac49aa1b2d69",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/excellence-engine-v4.md"
+    },
+    {
+      "path": "docs/guth-wang-bateman-zahl-probe.md",
+      "sha256": "550314d142b4aad268acf52086298c5d3a8969d8ac9f7d9e830d64ebd25e1c05",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/guth-wang-bateman-zahl-probe.md"
+    },
+    {
+      "path": "docs/h-term.md",
+      "sha256": "96431a815bdc0a7c007e275c764d01f6c2b8999c52718ac44b1ad14466ad930d",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/h-term.md"
+    },
+    {
+      "path": "docs/inspectable-intelligence.md",
+      "sha256": "69ed524d60cc24f3f9f5c43b3d1c4417091a74a1cc8cb3dfa48710f119a623c6",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/inspectable-intelligence.md"
+    },
+    {
+      "path": "docs/interfaces/excellence-engine-v4.md",
+      "sha256": "79dc005b3acd1f58643313af3ccce11a759899065f37329179d011640df44177",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/interfaces/excellence-engine-v4.md"
+    },
+    {
+      "path": "docs/interfaces/geometry-to-relational-state.md",
+      "sha256": "57a001d93061d61ce496ad6a1aa678fc12062210965a2599e5ddb9f394eff768",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/interfaces/geometry-to-relational-state.md"
+    },
+    {
+      "path": "docs/ipiano-inertial-proximal-probe.md",
+      "sha256": "0503e1cb7809fc710c05ee3fe8dcc9a79f54b17a16fa4f794c604f2faa19f2e0",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/ipiano-inertial-proximal-probe.md"
+    },
+    {
+      "path": "docs/kns-light-basic.md",
+      "sha256": "8675be6d013b64e4bfc477e9a061f330e27daaad2222d30538f0b4ff5e045661",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/kns-light-basic.md"
+    },
+    {
+      "path": "docs/kns-light-owed-formal.md",
+      "sha256": "f21734222deecc127a5c9f90ec3f36fb21fc51e807f72d51520ab7cc159957b3",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/kns-light-owed-formal.md"
+    },
+    {
+      "path": "docs/l2-spectral-operator.md",
+      "sha256": "28bee88050ca9aff656df854771c3db2f1c7d81a0a2903fa17450bf995491bcb",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/l2-spectral-operator.md"
+    },
+    {
+      "path": "docs/l2c-authority-detection.md",
+      "sha256": "c2a3069304c262b02d90867c1d708cd12de36033c21ade1750f46dbed3a34be7",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/l2c-authority-detection.md"
+    },
+    {
+      "path": "docs/l2c-ddtl-hamiltonian-probe.md",
+      "sha256": "095b28d1e66aa007c268170c79e514220339cb62118b5caa317e7877b64ff865",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/l2c-ddtl-hamiltonian-probe.md"
+    },
+    {
+      "path": "docs/l2c-inertial-coherence-operator.md",
+      "sha256": "e9ca4bb082bf8c48fb1449d66ad09e418725ea6bf064a265afd9a8351019954f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/l2c-inertial-coherence-operator.md"
+    },
+    {
+      "path": "docs/log-depth-harmonic-coherence.md",
+      "sha256": "ae1b9c5b3e3c77dd95a4b2bced6277c5a81df772ab3c9451fbc4081d7e383193",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/log-depth-harmonic-coherence.md"
+    },
+    {
+      "path": "docs/lovelabslca-update-push-2026-07-02.md",
+      "sha256": "4781b0e1758cdc9f79798272dbe0088c22c65234567e918cfb8c6417d543cd6b",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/lovelabslca-update-push-2026-07-02.md"
+    },
+    {
+      "path": "docs/openai-gpt-solance-v6-5-comment.md",
+      "sha256": "8530b5ec1f5c2f121d37be11eaf6afd13b39eccdd3ce51aeb020eae6e00779ee",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/openai-gpt-solance-v6-5-comment.md"
+    },
+    {
+      "path": "docs/operator-domain.md",
+      "sha256": "ac0b87697de226c14208fd9690adaec0af31dea8c5ceca83c4ab7ad1cffb1490",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/operator-domain.md"
+    },
+    {
+      "path": "docs/outcomes/PEAICE-GROK-OUTCOMES-RUNDOWN-001.docx",
+      "sha256": "bb99e6404866857cdad3e9328c1c1fd16440ac592478d758d8cfb4e6a8282e31",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/outcomes/PEAICE-GROK-OUTCOMES-RUNDOWN-001.docx"
+    },
+    {
+      "path": "docs/outcomes/PEAICE-GROK-OUTCOMES-RUNDOWN-001.md",
+      "sha256": "1f1633a9990e7bdccac05f31d07db208613070341c683e1ea83ad6d890e0c2d3",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/outcomes/PEAICE-GROK-OUTCOMES-RUNDOWN-001.md"
+    },
+    {
+      "path": "docs/outcomes/README.md",
+      "sha256": "b57caaa4f69f65103ce942fd008c99ecab338f02b7395a9729f30afb4c5b8833",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/outcomes/README.md"
+    },
+    {
+      "path": "docs/outcomes/peaice-outcomes-kakeyalogic-applied-final-research-memorandum.docx",
+      "sha256": "edeb257a0c2195647d6e72e64c6e3c5e097c0d177eca30896390d8ec262df33d",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/outcomes/peaice-outcomes-kakeyalogic-applied-final-research-memorandum.docx"
+    },
+    {
+      "path": "docs/outcomes/peaice-outcomes-kakeyalogic-applied-final-research-memorandum.pdf",
+      "sha256": "02afcd170b49ab130f2783b540b6991f55c1235ee38ddaaad8887a7016c83930",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/outcomes/peaice-outcomes-kakeyalogic-applied-final-research-memorandum.pdf"
+    },
+    {
+      "path": "docs/peaice-ddatl-001.md",
+      "sha256": "d9e946396b8207abc0ba9bf601e71d1310d2598f94cb623b227ecb66942522ca",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/peaice-ddatl-001.md"
+    },
+    {
+      "path": "docs/prime-carrying-trace-architecture.md",
+      "sha256": "1865ba94d2f52aa2dadb61fba74efb7881f805709f701eeb719b8043312cf8e3",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/prime-carrying-trace-architecture.md"
+    },
+    {
+      "path": "docs/reports/peaice-l2c-probe-engineering-report.md",
+      "sha256": "86f3dbab623aece651de2f3fd1571072caeadd4745434b8e0901525cad6a8831",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/reports/peaice-l2c-probe-engineering-report.md"
+    },
+    {
+      "path": "docs/repository-map.md",
+      "sha256": "e76bb484fe603d5e91b3cfd91281df2a3b647445ef9f05e87f03c870b787bc08",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/repository-map.md"
+    },
+    {
+      "path": "docs/siut/SIUT_Boundary_Errors_Research_Deck.pptx",
+      "sha256": "263a0005ed695fe01ea688de060eb6861b7d6c70a31c2b8bfac02cef98d8497c",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/siut/SIUT_Boundary_Errors_Research_Deck.pptx"
+    },
+    {
+      "path": "docs/spectral-determinism.md",
+      "sha256": "98c0a4dbb1810fc2d64a4bd981635f8d262e5ff955a2f53b08a7ff6a8d318231",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/spectral-determinism.md"
+    },
+    {
+      "path": "docs/spectral-equivalence-target.md",
+      "sha256": "f0b0eef2b1f6e83cab6e555a9897ac7a4208aedff58f616c5a0f5fd89d7895a8",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/spectral-equivalence-target.md"
+    },
+    {
+      "path": "docs/step4-operator-program.md",
+      "sha256": "c0df3a7e8a5a69536185fb80449766315820488fe51679ab1df3aa21fe501a15",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/step4-operator-program.md"
+    },
+    {
+      "path": "docs/thermal-coupling-correction.md",
+      "sha256": "2f4993889472ef6bce0f3319d1f2b462b858fdcf98ed30d9ffb9be08763f118e",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/thermal-coupling-correction.md"
+    },
+    {
+      "path": "docs/transfers/fable-ddatl-002-ladder-transfer.md",
+      "sha256": "2517d1d13bcdf42d934cd3766a05f206ee5b0c949e90eb9b91746e771911430a",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/transfers/fable-ddatl-002-ladder-transfer.md"
+    },
+    {
+      "path": "docs/wang-wu-restriction-decoupling.md",
+      "sha256": "0cfd6d144182704da8c0e85f6552256cf9db5fcae9c480623c7bb163af0e777a",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/wang-wu-restriction-decoupling.md"
+    },
+    {
+      "path": "docs/whitepapers/ddatl-002-grain-zero-whitepaper.md",
+      "sha256": "75827d93e9fadf406492a13434b4599165666167a63af5f7d114a115f0da9f26",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/docs/whitepapers/ddatl-002-grain-zero-whitepaper.md"
+    },
+    {
+      "path": "examples/ipiano_probe.py",
+      "sha256": "c197e81bed76cdf2e85acf17fafc92c76a81e0f010ed5212e1bdf0736c919560",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/examples/ipiano_probe.py"
+    },
+    {
+      "path": "examples/l2c_tesseract_probe.py",
+      "sha256": "a4afe6be9be755909772bd3b7b5c43046c4219e8ad29711527dad041715c3426",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/examples/l2c_tesseract_probe.py"
+    },
+    {
+      "path": "examples/learning/binary-neural-network-forward-pass.ipynb",
+      "sha256": "cae747831d00847f8e0b95f444489ab5d346b50c7bf0e91bd68515d917fa2201",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/examples/learning/binary-neural-network-forward-pass.ipynb"
+    },
+    {
+      "path": "examples/typed_directional_state/README.md",
+      "sha256": "ffd2ddfac5bc326eeae38d61ca62cb06e4e656de1cfbc2b1e4e087fcef5d5dc1",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/examples/typed_directional_state/README.md"
+    },
+    {
+      "path": "examples/typed_directional_state/run_saver_reference.py",
+      "sha256": "9c3f309254838be29760969dea990f7f83d488003dc446a10c32154840130ad6",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/examples/typed_directional_state/run_saver_reference.py"
+    },
+    {
+      "path": "examples/typed_directional_state/saver_calibration_graph.json",
+      "sha256": "826a9f11aafab09f657e86a2060655eaf2121744787facf77bca2fcc88dd180c",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/examples/typed_directional_state/saver_calibration_graph.json"
+    },
+    {
+      "path": "index.html",
+      "sha256": "ad19c87854aa22fbd7c4da35466fa5b166fb43d168052fb40c3c3fa1b3cfee2f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/index.html"
+    },
+    {
+      "path": "kakeyalogic-reconcile.sh",
+      "sha256": "4f6f28f0a1338789778a0613d9a36a6507595356f62e8fe14817e662d67194ba",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/kakeyalogic-reconcile.sh"
+    },
+    {
+      "path": "l2c_probe.py",
+      "sha256": "71c63ec969e57c98517c25b10559f8d16e84f7a32c6c4d140b440d8dbccb7711",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/l2c_probe.py"
+    },
+    {
+      "path": "papers/README.md",
+      "sha256": "521c2919e25b3928936e3a769ac5c3d1e1db5b54c1d36fe418d4b93f8e0d5896",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/papers/README.md"
+    },
+    {
+      "path": "probes/kns_lb_probe.py",
+      "sha256": "09ef26d3a2eb51927d3adecb74d3ef3edd62660dd11438576be4c2da8211b011",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/probes/kns_lb_probe.py"
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "aaf9cc95feabaac76e2fcd163d424e7a67c6ba3a48cbe618cbc3c471deaa8fab",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/pyproject.toml"
+    },
+    {
+      "path": "schemas/calibration-fixture.schema.json",
+      "sha256": "9a68b2066118c92821b6c43985d08c1723aab6905e913dd74eaf3c4eb1aecb87",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/schemas/calibration-fixture.schema.json"
+    },
+    {
+      "path": "schemas/grain-outcome.schema.json",
+      "sha256": "3d6bbfdbbe58cc401f576b4d5b0dfd403b9539a042f5541c7c15063270dba6a3",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/schemas/grain-outcome.schema.json"
+    },
+    {
+      "path": "schemas/routing-receipt.schema.json",
+      "sha256": "db127124c29a2673a05a92746802f121a38927fdea180bd4065f4e012e1d6f71",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/schemas/routing-receipt.schema.json"
+    },
+    {
+      "path": "src/kakeyalogic/__init__.py",
+      "sha256": "041715e670a7b2fc8f06a994b8ca78510697e178bc5c4870fcd73edbd6019230",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/__init__.py"
+    },
+    {
+      "path": "src/kakeyalogic/calibration.py",
+      "sha256": "0b275e81ee77cb22adf172ca879196055317461b17bef9740ad91e1775d5d5dd",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/calibration.py"
+    },
+    {
+      "path": "src/kakeyalogic/completeness.py",
+      "sha256": "5d58d546d05666c16f4354bb1f8746653989f42c8d899513b90e98e8bbe4b691",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/completeness.py"
+    },
+    {
+      "path": "src/kakeyalogic/containment.py",
+      "sha256": "0967e398cfd1c0385a8a25a1d371b9625901fb5385bb3e3cbce6a0a1e3378f76",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/containment.py"
+    },
+    {
+      "path": "src/kakeyalogic/data/saver_calibration_graph.json",
+      "sha256": "826a9f11aafab09f657e86a2060655eaf2121744787facf77bca2fcc88dd180c",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/data/saver_calibration_graph.json"
+    },
+    {
+      "path": "src/kakeyalogic/gate.py",
+      "sha256": "92866b9eacc6cbdeffaaa3a84caa3e1dd3e25fff6c037b0c8e147d09d0154448",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/gate.py"
+    },
+    {
+      "path": "src/kakeyalogic/geodecis.py",
+      "sha256": "199a5fe6ab62ad11332bb9654f390bca07cef7c0eb4ca0328262a77e3135bc38",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/geodecis.py"
+    },
+    {
+      "path": "src/kakeyalogic/grains.py",
+      "sha256": "b20678b3d5a13ff6852e4a878a42c845e873f71cc46c37008c19b0acf54ecb02",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/grains.py"
+    },
+    {
+      "path": "src/kakeyalogic/interior.py",
+      "sha256": "88b9120c3bf9ea149e6bb1bbf67e2573de95ee47050dc77c95ac1a75d58daada",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/interior.py"
+    },
+    {
+      "path": "src/kakeyalogic/overlap.py",
+      "sha256": "bd452617d2c082b6f172b8a2765ef549461ba7b2af37d9547b8e30cd4fd028a6",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/overlap.py"
+    },
+    {
+      "path": "src/kakeyalogic/receipts.py",
+      "sha256": "933e8ee9d1e0939176790ce307bea7af228ae29b783c58518e10af5e6f8cc79a",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/receipts.py"
+    },
+    {
+      "path": "src/kakeyalogic/refine.py",
+      "sha256": "ff30c16426213842d573fbff8a6b839f8cf1b30089ff62e969d9c376333bd16c",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/refine.py"
+    },
+    {
+      "path": "src/kakeyalogic/routing.py",
+      "sha256": "9c927c173346b8b7a84fa72f5f13f4feb3a153c0d5e0a0d93d76bfc630a33c66",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/routing.py"
+    },
+    {
+      "path": "src/kakeyalogic/state.py",
+      "sha256": "527b0c222609542e60cd59a4cee979549bfda16b710258ae5d556fb97319989f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/src/kakeyalogic/state.py"
+    },
+    {
+      "path": "tests/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/tests/__init__.py"
+    },
+    {
+      "path": "tests/test_saver_behavioral.py",
+      "sha256": "dd4834d0676fcd88d8cb090f16db3388c6fbef03dc6fe02565f122b1ac2e837f",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/tests/test_saver_behavioral.py"
+    },
+    {
+      "path": "tests/test_saver_contracts.py",
+      "sha256": "3344727626f910bb3a633226c14108a4faf3832a988e6ff398e0ada1cb797c17",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/tests/test_saver_contracts.py"
+    },
+    {
+      "path": "tests/test_saver_regressions.py",
+      "sha256": "257d2865cc300c8d5aa560976186fb561b736377fd6ecec62c50514049d1fbbb",
+      "url": "https://github.com/agreeya-org0-platform/kakeyalogic.index/blob/ede2e4d2a7d05b9c24cf29275156f9164789248b/tests/test_saver_regressions.py"
+    }
+  ],
+  "downstream_coverage_evidence": "Per-invocation receipts; the static inventory does not track agent reads."
+}
