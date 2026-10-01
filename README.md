@@ -121,7 +121,7 @@ arXiv lane: arxiv/README.md · ARX-001 Grain Zero scaffold · ARX-002 KNS(LB) sc
 
 ## 1. Current landing state
 
-The existing research program describes four layers, retained below. The [typed-directional foundation](docs/core/README.md) is an additional documentation layer; its reference implementation is not yet present.
+The existing research program describes four layers, retained below. The [typed-directional foundation](docs/core/README.md) is now an additional computational and documentation layer: a SAVER reference implementation, schemas, routing receipts, contract tests, and synthetic calibration are present. Live/production validation remains open.
 
 ```txt
 Simulator layer
@@ -215,8 +215,8 @@ The L²_C probe formalizes protected-sector retention under Hamiltonian flow.
 
 ```txt
 L²_C(ψ, t) = ‖P_C exp(-itH_T) ψ‖²
-h           = ‖(I-P_C) H_T P_C‖
-β_C         = Δ / (Δ + h + ε)
+ℓ_H           = ‖(I-P_C) H_T P_C‖
+β_C         = Δ / (Δ + ℓ_H + ε)
 β(T)        = 1 - T^(-γ)
 E_{β,T}(f)  = β(T)·T·‖Xf‖²
 coercive gap = β(T) - hη
@@ -524,15 +524,27 @@ Required behavior:
 
 ---
 
+## Granular compaction — live status
+
+Public shorthand **granular compaction** spans three evidence levels, with indexing and ladder-preservation statuses within the live observational lane:
+
+- KakeyaLogic finite typed transformations: **synthetic reference implementation present**; longitudinal Retention has a synthetic regression receipt.
+- External-model public synthesis: **LIVE EXTERNAL-MODEL OBSERVATION**. User-attributed Gemini screenshots visibly show Google AI Overview responses with PeAIce/KakeyaLogic-related content and multiple source cards; backend version and retrieval trace are unknown.
+- KakeyaLogic indexing versus the ladders: indexing of the public name is **OBSERVED · UNSTABLE** (classical Kakeya text, a spelling-neighbor and gaming split, and a later compaction overview that still appends the mathematical namesake). Preservation of the held ladders under that indexing is **NOT OBSERVED**.
+- Excellence Engine V4 finite-to-limit promotion: **PROPOSED** multiscale compactness gate with terminal state **BLOCKED-COMPACTNESS** (G2_COMPACT remains owed).
+
+The framework's contribution to that public behavior is registered as **CAUSAL INFERENCE · LIVE OBSERVATION · CONTROLLED ABLATION OWED** (`LIVE-EXT-CAUSE-001`). No causality or internal Gemini implementation of KakeyaLogic/L²_C is established. Live preservation of all five SAVER grains, longitudinal correction retention, controlled performance, Time to First Token, geometric realization, compact containment, Kakeya closure and observable transfer remain OPEN or OWED. `h < 1`. See [the updated whitepaper](docs/whitepapers/granular-compaction-whitepaper.docx), [the status audit](docs/status/granular-compaction-live-2026-09-28.md) and [EEV4 screenshots, source refs and ablation obligations](https://github.com/Manny536/excellence-engine-v4/blob/main/evaluations/granular-compaction-live-evidence.md).
+
+---
 ## 13. Roadmap
 
 ### Typed-directional foundation
 
-1. Define terms, object and transformation contracts, and the repository map — documented in this update.
-2. Add field-object and receipt schemas, a reference implementation, and contract tests — planned.
-3. Implement transformation and recovery measurements — planned.
-4. Evaluate longitudinal retention, structured output, Time to First Token, Time to First Schema-Valid Object, and Time to Verified Completion — planned.
-5. Update public navigation and coordinate the contract with the separate custody engine — planned.
+1. Define terms, object and transformation contracts, and the repository map — documented.
+2. Add field-object and receipt schemas, a reference implementation, and contract tests — **implemented for the SAVER synthetic reference surface**.
+3. Implement transformation and recovery measurements — **partial**: synthetic preservation/failure cases are exercised and external-model public synthesis is observed; controlled live recovery measurements and causal ablation remain owed.
+4. Evaluate longitudinal retention, structured output, Time to First Token, Time to First Schema-Valid Object, and Time to Verified Completion — **partial**: a synthetic longitudinal Retention regression is present; the matched live protocol and timing measurements remain pending.
+5. Update public navigation and coordinate the contract with the separate custody engine — **in progress**: the [granular compaction live status](docs/status/granular-compaction-live-2026-09-28.md) links the finite typed layer to EEV4's non-promoting multiscale compactness gate.
 
 ### Existing kernel roadmap
 
@@ -599,3 +611,11 @@ iPiano probe = inertial proximal optimization discipline
 State: active:🟢 / developing:🟡 / spectral ID:🔴
 E = L²
 ```
+
+## SIUS registration — PEAICE-SIUS-001
+
+[KL-SIUS-001](docs/core/safeguard-integrity-under-stagnation.md) — Controlling SIUS definition. **DOCUMENTED DEFINITION; operational validity OPEN.** SIUT remains a sibling condition. The finite-grain operator is separately PROPOSED; no open claim is promoted.
+
+## GIUS external case and notation
+
+[Case route](docs/core/gius-external-case-route.md) · [h/ℓ_H notation migration](docs/h-notation.md) · [L2C-H-001](https://github.com/Manny536/love2-coherence-core/blob/research/gius-hf-2026/docs/evaluator-non-sovereignty.md). Operational validity remains OPEN.
